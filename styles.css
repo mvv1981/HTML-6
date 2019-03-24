@@ -3,10 +3,11 @@
   height: 300px;
 
   position: fixed;
-  top: 50%;
-  left: 50%;
-  margin-left: -150px;
-  margin-top: -150px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
 
   background-color: #333
   color: #fff;
