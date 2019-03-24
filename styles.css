@@ -1,0 +1,25 @@
+.wrapper {
+  width: 300px;
+  height: 300px;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+
+  background-color: #333
+  color: #fff;
+  border: 1px solid #000;
+  padding: 10px 20px;
+}
+
+.image {
+  width: 190px;
+  height: 190px;
+  float: right;
+
+  background-color: #f00;
+  margin-right: 10px;
+}
