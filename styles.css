@@ -1,0 +1,22 @@
+.wrapper {
+	width: 300px;
+	height: 300px;
+	z-index: 1;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -150px; /*компенсация положения блока - 1/2 высоты*/
+	margin-left: -150px; /*компенсация положения блока - 1/2 ширины*/
+	padding: 10px 20px;
+	background-color: #333;
+	color: #fff;
+	border: 1px solid #000;
+}
+
+.image {
+	width: 190px;
+	height: 190px;
+	float: left;
+	margin-right: 10px;
+	background-color: #f00;
+}
